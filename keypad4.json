@@ -1,0 +1,6 @@
+{
+  "version": "3.3",
+  "url": "https://raw.githubusercontent.com/ronpbooth/rfvoice-updates/main/CYDkp_2026-09-03_1430_v3.3_4in.bin",
+  "md5": "53084f7b8f52047f99ad39bc2702513b",
+  "notes": "4 inch keypad (320x480). Same features as 3.2. Rebuilt without the bench Wi-Fi credentials that earlier images carried. NOT for 2.8 inch boards."
+}
