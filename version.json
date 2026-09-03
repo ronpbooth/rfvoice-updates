@@ -1,0 +1,6 @@
+{
+  "version": "2026-08-31_1440",
+  "url": "https://raw.githubusercontent.com/ronpbooth/rfvoice-updates/main/RFVoice_2026-08-31_1440.bin",
+  "md5": "0f5ce6e629196eb9f445a23b8e65eabc",
+  "notes": "Publishes a chime event to keypads whenever the panel annunciates a zone while disarmed, so keypads can chime in step - including unsupervised transmitters, and correctly silent for inside zones."
+}
