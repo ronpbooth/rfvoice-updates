@@ -1,6 +1,6 @@
 {
-  "version": "3.3",
-  "url": "https://raw.githubusercontent.com/ronpbooth/rfvoice-updates/main/CYDkp_2026-09-03_1430_v3.3_4in.bin",
-  "md5": "53084f7b8f52047f99ad39bc2702513b",
-  "notes": "4 inch keypad (320x480). Same features as 3.2. Rebuilt without the bench Wi-Fi credentials that earlier images carried. NOT for 2.8 inch boards."
+  "version": "3.4",
+  "url": "https://raw.githubusercontent.com/ronpbooth/rfvoice-updates/main/CYDkp_2026-09-04_v3.4_4in.bin",
+  "md5": "bbdc2a6ed65f0a36ea9d69479da3d555",
+  "notes": "4 inch keypad (320x480). New Backlight screen in the System menu: brightness, and dim to a faint glow after 10-60 seconds untouched or never. An entry delay or an alarm always wakes it. Every touch now clicks, including the first and last digit of a code. Fixes settings that were not surviving a reboot."
 }
