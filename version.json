@@ -1,6 +1,6 @@
 {
-  "version": "2026-08-31_1440",
-  "url": "https://raw.githubusercontent.com/ronpbooth/rfvoice-updates/main/RFVoice_2026-08-31_1440.bin",
-  "md5": "0f5ce6e629196eb9f445a23b8e65eabc",
-  "notes": "Publishes a chime event to keypads whenever the panel annunciates a zone while disarmed, so keypads can chime in step - including unsupervised transmitters, and correctly silent for inside zones."
+  "version": "2026-09-05_1257",
+  "url": "https://raw.githubusercontent.com/ronpbooth/rfvoice-updates/main/RFVoice_2026-09-05_1257.bin",
+  "md5": "1b5bdb2720425b9efe75d0680e2c0030",
+  "notes": "Adds an installer-gated 'Pulse Out 2' option on the Zones page: Alarm output 2 flashes about once a second instead of holding steady, as a visual alarm for a hearing-impaired occupant. Panel-wide, default off, so nothing changes unless it is enabled. Out 1 is always steady. Remote speakers flash in step and keep sounding their siren continuously, but only once their own firmware and the panel's comms module are updated too."
 }
