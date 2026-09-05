@@ -1,6 +1,6 @@
 {
-  "version": "3.4",
-  "url": "https://raw.githubusercontent.com/ronpbooth/rfvoice-updates/main/CYDkp_2026-09-04_v3.4_4in.bin",
-  "md5": "bbdc2a6ed65f0a36ea9d69479da3d555",
-  "notes": "4 inch keypad (320x480). New Backlight screen in the System menu: brightness, and dim to a faint glow after 10-60 seconds untouched or never. An entry delay or an alarm always wakes it. Every touch now clicks, including the first and last digit of a code. Fixes settings that were not surviving a reboot."
+  "version": "3.6",
+  "url": "https://raw.githubusercontent.com/ronpbooth/rfvoice-updates/main/CYDkp_2026-09-05_1634_v3.6_4in.bin",
+  "md5": "779ee62ffcf888a51314176321f9c65d",
+  "notes": "4 inch keypad (320x480). Any live alarm now brings up the code screen, not just an entry delay - a 24 hour zone such as an audible panic alarms while the system is disarmed, and the keypad previously left you with no way to silence it. The screen also stays put while the alarm sounds instead of timing out back to Home. A panel that answers slowly is no longer reported as a rejection. Silent panic is unchanged and still shows nothing."
 }
