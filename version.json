@@ -1,6 +1,6 @@
 {
-  "version": "2026-09-05_1257",
-  "url": "https://raw.githubusercontent.com/ronpbooth/rfvoice-updates/main/RFVoice_2026-09-05_1257.bin",
-  "md5": "1b5bdb2720425b9efe75d0680e2c0030",
-  "notes": "Adds an installer-gated 'Pulse Out 2' option on the Zones page: Alarm output 2 flashes about once a second instead of holding steady, as a visual alarm for a hearing-impaired occupant. Panel-wide, default off, so nothing changes unless it is enabled. Out 1 is always steady. Remote speakers flash in step and keep sounding their siren continuously, but only once their own firmware and the panel's comms module are updated too."
+  "version": "2026-09-05_1634",
+  "url": "https://raw.githubusercontent.com/ronpbooth/rfvoice-updates/main/RFVoice_2026-09-05_1634.bin",
+  "md5": "7ede322c79344372cbf78a0cbe889d50",
+  "notes": "Adds an installer-gated 'Pulse Out 2' option on the Zones page: Alarm output 2 flashes about once a second instead of holding steady, as a visual alarm for a hearing-impaired occupant. Panel-wide, default off, so nothing changes unless it is enabled. Out 1 is always steady. Remote speakers flash in step and keep sounding their siren continuously, once their own firmware and the panel's comms module are updated too. Also fixes a disarm after an alarm replying late: the panel now answers the request before speaking its 'disarmed' and 'alarm in memory' clips, so a keypad no longer times out and shows a connection error for a disarm that worked."
 }
