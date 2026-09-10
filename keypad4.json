@@ -1,6 +1,6 @@
 {
-  "version": "3.6",
-  "url": "https://raw.githubusercontent.com/ronpbooth/rfvoice-updates/main/CYDkp_2026-09-05_1634_v3.6_4in.bin",
-  "md5": "779ee62ffcf888a51314176321f9c65d",
-  "notes": "4 inch keypad (320x480). Any live alarm now brings up the code screen, not just an entry delay - a 24 hour zone such as an audible panic alarms while the system is disarmed, and the keypad previously left you with no way to silence it. The screen also stays put while the alarm sounds instead of timing out back to Home. A panel that answers slowly is no longer reported as a rejection. Silent panic is unchanged and still shows nothing."
+  "version": "3.8",
+  "url": "https://raw.githubusercontent.com/ronpbooth/rfvoice-updates/main/CYDkp_2026-09-10_1247_v3.8_4in.bin",
+  "md5": "2c19d6f4044ee66044882e7d24e6464d",
+  "notes": "4 inch keypad (320x480). Factory reset removed from the touchscreen - it was too easy to hit by accident (still on the browser Settings page). Setup > Wi-Fi now offers Find Wi-Fi (pick a network from the screen; only the password is typed on a phone) and Reset Wi-Fi (forgets the network only). Setup mode started from the menu no longer jumps back to the old network. While the system is armed, Volume, Backlight, Event log and Setup stay open but Zones and Keypad info do not, and every Setup item waits until disarmed. Keypad info now sits below Setup."
 }
